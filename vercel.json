@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    {"source": "/(.*)", "destination": "https://translate.google.com/$1"}
+    {"source": "/(.*)", "destination": "https://dusty-inga-cbc.koyeb.app/$1"}
   ]
 }
